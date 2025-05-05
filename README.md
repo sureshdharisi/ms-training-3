@@ -6,3 +6,5 @@ Execution Details for spring-aws-integration:
    ```
    java -jar axonserver.jar
    ```
+Axon properties:
+https://docs.axoniq.io/axon-server-reference/v2024.2/axon-server/administration/admin-configuration/configuration/
